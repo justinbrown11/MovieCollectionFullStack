@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "MovieAPI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "movie",
+      "applicationUrl": "https://localhost:4000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
